@@ -9,6 +9,9 @@
 订阅地址：[https://luoliluosuo.zhubai.love/](https://luoliluosuo.zhubai.love/)
 
 ## 往期阅览
+
+第29期：[人间师格](./202209-29/readme.md)
+
 第28期：[从迷信到不信，从不信到相信](./202209-28/readme.md)
 
 第27期：[凤凰生孔雀，大鹏](./202209-27/readme.md)
