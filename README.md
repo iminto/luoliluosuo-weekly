@@ -9,6 +9,9 @@
 订阅地址：[https://luoliluosuo.zhubai.love/](https://luoliluosuo.zhubai.love/)
 
 ## 往期阅览
+第31期：[河水洋洋，北流活活](./202209-31/readme.md)
+
+第30期：[醉后不知天在水，满船清梦压星河](./202209-30/readme.md)
 
 第29期：[人间师格](./202209-29/readme.md)
 
