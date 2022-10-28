@@ -9,6 +9,7 @@
 订阅地址：[https://luoliluosuo.zhubai.love/](https://luoliluosuo.zhubai.love/)
 
 ## 往期阅览
+第34期：[充实，而不是困苦](./202210-34/readme.md)
 
 第33期：[成年人不能被改变，只能被筛选](./202210-33/readme.md)
 
