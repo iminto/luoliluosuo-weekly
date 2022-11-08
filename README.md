@@ -9,6 +9,8 @@
 订阅地址：[https://luoliluosuo.zhubai.love/](https://luoliluosuo.zhubai.love/)
 
 ## 往期阅览
+第35期：[西郊有密林，助君出重围](./202211-35/readme.md)
+
 第34期：[充实，而不是困苦](./202210-34/readme.md)
 
 第33期：[成年人不能被改变，只能被筛选](./202210-33/readme.md)
