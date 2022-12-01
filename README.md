@@ -9,6 +9,8 @@
 订阅地址：[https://luoliluosuo.zhubai.love/](https://luoliluosuo.zhubai.love/)
 
 ## 往期阅览
+第39期：[陟彼南山，言采其蕨](./202212-39/readme.md)
+
 第38期：[树上有个好地方](./202211-38/readme.md)
 
 第37期：[沽酒人家柳岸傍，棠梨花白菜花黄](./202211-37/readme.md)
