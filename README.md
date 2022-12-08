@@ -9,6 +9,8 @@
 订阅地址：[https://luoliluosuo.zhubai.love/](https://luoliluosuo.zhubai.love/)
 
 ## 往期阅览
+第40期：[我瞻四方，蹙蹙靡所骋](./202212-40/readme.md)
+
 第39期：[陟彼南山，言采其蕨](./202212-39/readme.md)
 
 第38期：[树上有个好地方](./202211-38/readme.md)
