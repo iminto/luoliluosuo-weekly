@@ -9,6 +9,8 @@
 订阅地址：[https://luoliluosuo.zhubai.love/](https://luoliluosuo.zhubai.love/)
 
 ## 往期阅览
+第41期：[麻衣如雪一枝梅](./202212-41/readme.md)
+
 第40期：[我瞻四方，蹙蹙靡所骋](./202212-40/readme.md)
 
 第39期：[陟彼南山，言采其蕨](./202212-39/readme.md)
