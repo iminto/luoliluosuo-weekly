@@ -9,6 +9,8 @@
 订阅地址：[https://luoliluosuo.zhubai.love/](https://luoliluosuo.zhubai.love/)
 
 ## 往期阅览
+第42期：[神走了，不会再来了](./202212-42/readme.md)
+
 第41期：[麻衣如雪一枝梅](./202212-41/readme.md)
 
 第40期：[我瞻四方，蹙蹙靡所骋](./202212-40/readme.md)
