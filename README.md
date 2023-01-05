@@ -9,6 +9,8 @@
 订阅地址：[https://luoliluosuo.zhubai.love/](https://luoliluosuo.zhubai.love/)
 
 ## 往期阅览
+第44期：[地木耳](./202301-44/readme.md)
+
 第43期：[但见时光流似箭，岂知天道曲如弓](./202212-43/readme.md)
 
 第42期：[神走了，不会再来了](./202212-42/readme.md)
