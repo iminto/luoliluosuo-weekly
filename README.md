@@ -9,6 +9,8 @@
 订阅地址：[https://luoliluosuo.zhubai.love/](https://luoliluosuo.zhubai.love/)
 
 ## 往期阅览
+第45期：[状元吃饵丝，连吃三大碗](./202301-45/readme.md)
+
 第44期：[地木耳](./202301-44/readme.md)
 
 第43期：[但见时光流似箭，岂知天道曲如弓](./202212-43/readme.md)
