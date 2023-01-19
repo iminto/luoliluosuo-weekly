@@ -9,7 +9,7 @@
 订阅地址：[https://luoliluosuo.zhubai.love/](https://luoliluosuo.zhubai.love/)
 
 ## 往期阅览
-第45期：[小妖怪的夏天](./202301-46/readme.md)
+第46期：[小妖怪的夏天](./202301-46/readme.md)
 
 第45期：[状元吃饵丝，连吃三大碗](./202301-45/readme.md)
 
