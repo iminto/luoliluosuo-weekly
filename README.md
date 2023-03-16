@@ -9,6 +9,8 @@
 订阅地址：[https://luoliluosuo.zhubai.love/](https://luoliluosuo.zhubai.love/)
 
 ## 往期阅览
+第53期：[穿条纹睡衣的男孩](./202303-53/readme.md)
+
 第52期：[看飞机的人](./202303-52/readme.md)
 
 第51期：[吹灭读书灯，一身都是月](./202303-51/readme.md)
