@@ -9,6 +9,8 @@
 订阅地址：[https://luoliluosuo.zhubai.love/](https://luoliluosuo.zhubai.love/)
 
 ## 往期阅览
+第57期：[中国版肖申克](./202304-57/readme.md)
+
 第56期：[走马川行雪海边](./202304-56/readme.md)
 
 第55期：[当你梦到了太多阳光，就会忘了树](./202303-55/readme.md)
