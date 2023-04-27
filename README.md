@@ -9,6 +9,8 @@
 订阅地址：[https://luoliluosuo.zhubai.love/](https://luoliluosuo.zhubai.love/)
 
 ## 往期阅览
+第59期：[脐带](./202304-59/readme.md)
+
 第58期：[昆乱不当](./202304-58/readme.md)
 
 第57期：[中国版肖申克](./202304-57/readme.md)
