@@ -9,7 +9,9 @@
 订阅地址：[https://luoliluosuo.zhubai.love/](https://luoliluosuo.zhubai.love/)
 
 ## 往期阅览
-第62期：[A像B不等于B像A](./202305-63/readme.md)
+第64期：[由来豪杰士，不必待文王](./202306-64/readme.md)
+
+第63期：[A像B不等于B像A](./202305-63/readme.md)
 
 第62期：[翻云覆雨手](./202305-62/readme.md)
 
