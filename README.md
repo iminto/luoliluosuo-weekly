@@ -9,7 +9,7 @@
 订阅地址：[https://luoliluosuo.zhubai.love/](https://luoliluosuo.zhubai.love/)
 
 ## 往期阅览
-第65期：[破碎的四月](./202306-66/readme.md)
+第66期：[破碎的四月](./202306-66/readme.md)
 
 第65期：[我与我周旋久，宁作我](./202306-65/readme.md)
 
@@ -140,3 +140,10 @@
 第2期：[古代爽文](./202203-2/readme.md)
 
 第1期：[衁子](./202203-1/readme.md)
+
+## 捐赠
+
+如果你觉得此项目对你有帮助，请捐助我们，使项目能持续发展和更加完善。
+
+支付费用订阅竹白
+[订阅](https://luoliluosuo.zhubai.love/)
