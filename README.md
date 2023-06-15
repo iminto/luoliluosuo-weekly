@@ -9,6 +9,8 @@
 订阅地址：[https://luoliluosuo.zhubai.love/](https://luoliluosuo.zhubai.love/)
 
 ## 往期阅览
+第65期：[破碎的四月](./202306-66/readme.md)
+
 第65期：[我与我周旋久，宁作我](./202306-65/readme.md)
 
 第64期：[由来豪杰士，不必待文王](./202306-64/readme.md)
