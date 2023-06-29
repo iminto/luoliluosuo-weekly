@@ -9,6 +9,8 @@
 订阅地址：[https://luoliluosuo.zhubai.love/](https://luoliluosuo.zhubai.love/)
 
 ## 往期阅览
+第67期：[芙蓉镇](./202306-67/readme.md)
+
 第66期：[破碎的四月](./202306-66/readme.md)
 
 第65期：[我与我周旋久，宁作我](./202306-65/readme.md)
