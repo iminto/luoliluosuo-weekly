@@ -9,6 +9,8 @@
 订阅地址：[https://luoliluosuo.zhubai.love/](https://luoliluosuo.zhubai.love/)
 
 ## 往期阅览
+第68期：[泰森原则](./202307-68/readme.md)
+
 第67期：[芙蓉镇](./202306-67/readme.md)
 
 第66期：[破碎的四月](./202306-66/readme.md)
